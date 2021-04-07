@@ -1,0 +1,33 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.c {
+    font-family: monospace;
+    background-color: bisque;
+}
+
+th {
+    background-color: orange;
+    font-weight: bold;
+    font-size: large;
+}
+
+table {
+  border:  2px solid darkorange;
+  width: 750px;
+  margin:auto;
+}
+
+h2{
+    color: orange;
+}
+
+td {
+    border-top: 1px solid darkorange;
+}
